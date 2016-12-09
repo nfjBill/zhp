@@ -1,0 +1,22 @@
+{
+  "name": "zhp",
+  "version": "0.0.1",
+  "description": "I used toolkit he call ZHP, why call ZHP, guess? ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nfjBill/zhp.git"
+  },
+  "keywords": [
+    "zhp"
+  ],
+  "author": "nfjBill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nfjBill/zhp/issues"
+  },
+  "homepage": "https://github.com/nfjBill/zhp#readme"
+}
